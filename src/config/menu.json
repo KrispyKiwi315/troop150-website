@@ -1,6 +1,10 @@
 {
   "main": [
     {
+      "name": "Calendar",
+      "url": "/calendar"
+    },
+    {
       "name": "Who we are",
       "url": "/about"
     },
@@ -17,30 +21,10 @@
       "url": "/join"
     },
     {
-      "name": "Pages",
+      "name": "Troop Info",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
-          "url": "/categories"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        },
         {
          "name": "Merit Badge Counselors",
          "url": "/merit-badge-counselors"
@@ -52,6 +36,10 @@
         {
           "name":"Past Campouts",
           "url":"/campouts"
+        },
+        {
+          "name":"Eagle Scouts",
+          "url":"/eagle-scouts"
         }  
       ]
     }
